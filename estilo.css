@@ -1,0 +1,178 @@
+body {
+	width: 100%;
+}
+
+#cabecalho{
+	background:#FACC2E ;
+	margin-left: -8px;
+	margin-top: -8px;
+	width: 100%;
+	height: 200px;
+	border: 0px solid red;
+}
+
+.tecblog{
+font-size: 50px;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+border: 0px solid red;
+display: inline;
+position: relative;
+		top: 30px;
+		left: 42%;
+		: ;
+
+}
+
+.tec{
+	color: #4e4e4e;
+
+}
+
+.blog{
+	color: white;
+	margin-left: -18px;
+}
+
+.menu{
+	border: 0px solid red;
+	font-size: 20px;
+	color: white;
+	text-decoration: unset;
+	position: relative;
+			top: 80px;
+			left: 33%;
+	padding: 10px;
+}
+
+a:hover{
+	color:#FACC2E ;
+	background: white;
+
+}
+
+#conteudo{
+	border: 0px solid red;
+	width: 50%;
+	height: 1250px;
+	margin-left: 200px;
+
+
+}
+
+h1{
+	color:#FACC2E ;
+	padding-top: 10px;
+	margin-bottom: 0px;
+
+}
+
+p{
+	border: 0px solid red;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.leia{
+	text-decoration: unset;
+	color:#FACC2E ;
+}
+.leia:hover{
+	text-decoration: underline;
+}
+#coluna{
+	width: 100%;
+}
+
+#recentes{
+	border: 0px solid red;
+	background: white;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	width: 200px;
+	height: 180px;
+	float: bottom;
+	position: relative;
+			top: -112%;
+			left: 110%;
+}
+
+#recentestext{
+	border: 0px solid red;
+	background: white;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin-top: -140px;
+	margin-bottom: 20px;
+	width: 200px;
+	height: 180px;
+	float: bottom;
+	position: relative;
+			top: -112%;
+			left: 110%;
+}
+
+#categorias{
+	border: 0px solid red;
+	background: white;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	width: 200px;
+	height: 37px;
+	float: bottom;
+	position: relative;
+			top: -114%;
+			left: 110%;
+}
+#categoriastext{
+	border: 0px solid red;
+	background: white;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	width: 200px;
+	height: 100px;
+	float: bottom;
+	position: relative;
+			top: -114%;
+			left: 110%;
+
+}
+
+h4{
+	border: 0px solid red;
+	margin-top: 5px;
+	color: #151515;
+	background: #BDBDBD;
+	padding: 5px 10px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 18px;
+
+}
+
+.rodape{
+	background: lightgray;
+	text-align: center;
+	margin-top: -100px;
+	padding: 20px;	
+	margin-right: 220px;
+	margin-left: 220px;
+}
+
+#produzido{
+	border: 0px solid red;
+	background: #585858;
+	margin-top: ;
+	padding: 10px;
+	margin-right: 1070px;
+	position: relative;
+		left: 1085px;
+		top: -80px;
+}	
+#email{
+	color:#FACC2E ;
+	font-size: 14px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#nome{
+	color:#BDBDBD;
+	font-family: "Trebuchet MS", Helvetica, sans-serif
+	font-size: 12px;
+}
+
+
+

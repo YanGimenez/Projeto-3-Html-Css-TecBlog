@@ -1,0 +1,136 @@
+body {
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	margin: 0px;
+}
+#container{
+	border: 0px solid red;
+	width: 100%;
+	min-width: 1150px;
+}
+#marca{
+	border: 0px solid red;
+	width: 100%;
+	height: 200px;
+	background: #facc2e;
+	line-height:;
+	text-align: center;
+}
+#tecblog{
+	padding-top: 50px;
+	padding-bottom: 40px;
+	font-size: 50px;
+}
+#tec{
+	color: #434343;	
+}
+#blog{
+	color: white;
+	margin-left: -18px;
+}
+
+#menu a{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+	color: #FFF;
+}
+
+#menu a:hover {
+	background: #FFF;
+	color: #facc2e
+}
+
+/*-------------fim cabeçalho --------- */
+
+#conteudo{
+	border: 0px solid red;
+	float: right;
+	width: 50%;
+	padding-left: 10px;
+	margin-bottom: 20px;
+}
+#conteudo h2{
+	color: #facc2e;
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+#conteudo img{
+	width: 100%;
+}
+#conteudo p{
+	margin: 0px;
+}
+#conteudo a{
+	color: #facc2e;
+	text-decoration: none;
+}
+/* ------------fim conteudo ---------- */
+
+#navegacao{
+	width: 15%;
+	border: px solid red;
+	float: right;
+	margin-left: 5%;
+	margin-right: 15%;
+	padding-left: 10px;
+	margin-top: 20px;
+}
+#navegacao h2{
+	border: px solid red;
+	font-size: 18px;
+	color: #151515;
+	background: #bdbdbd;
+	margin-top: 0px;
+	margin-left: -10px;
+	padding: 5px 10px;
+}
+#navegacao p{
+	border: px solid red;
+	margin-top: -12px;
+	margin-left: -10px;
+	margin-bottom: 0px;
+}
+#navegacao a{
+	border: px solid red;
+	color: #facc2e;
+	text-decoration: none;
+	margin-top: ;
+	margin-left: -10px;
+}
+#navegacao hr{
+	margin-left: -10px;
+	margin-bottom: 20px;
+}
+#navegacao h3 {
+	color: #151515;
+	background: #bdbdbd;
+	margin-top: 50px;
+	margin-left: -10px;
+	padding: 5px 10px;
+}
+#navegacao ul {
+	border: 0px solid red;
+	list-style: none;
+	padding-left: 0px;
+	margin-top: -15px;
+}
+#navegacao a{
+	text-decoration: none;
+}
+#navegacao a:hover{
+	text-decoration: underline;
+}
+/* -------------fim navegação -----------*/
+
+#rodape{
+	clear:both;
+	background: lightgray ;
+	width: 100%;
+	height:50px;
+	text-align: center;
+	line-height: 50px;
+}
+#rodape h1{
+	font-size: 18px;
+	color: black;
+}
